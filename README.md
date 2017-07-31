@@ -48,3 +48,4 @@ fi
 
 ```
 
+## Please, report all bugs here or contact cryptoscum in http://chat.simplemining.net/channel/general if you need help or have any questions.
